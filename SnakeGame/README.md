@@ -3,4 +3,4 @@
 * Use arrow keys to control.
 * Press space to pause.
 
-![SnakeGame](https://imgur.com/pcK6lVk)
+![](https://i.ibb.co/9pRtVn9/snake-game.jpg)
