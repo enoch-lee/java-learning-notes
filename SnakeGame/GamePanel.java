@@ -17,8 +17,7 @@ public class GamePanel extends JPanel implements Runnable, KeyListener {
 
     GamePanel(){
         setFocusable(true);
-        // 为什么这么写
-        this.addKeyListener(this);
+        addKeyListener(this);
         setPreferredSize(new Dimension(HEIGHT, WIDTH));
         snake = new LinkedList<>();
         fruit = new Point();

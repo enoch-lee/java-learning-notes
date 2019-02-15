@@ -12,11 +12,11 @@
 
 1. [OOD Design](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
 2. [Pattern Design](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07) 
-
-2. [Snake Game](https://www.youtube.com/watch?v=91a7ceECNTc)
-3. [Mine Sweeper](https://www.youtube.com/watch?v=v0Swz1u_Ymc&list=PLoJsaiKG1oXBfS2QQaliyrpKADi-ZQjfh)
+3. [Snake Game](https://www.youtube.com/watch?v=91a7ceECNTc)
+4. [Mine Sweeper](https://www.youtube.com/watch?v=v0Swz1u_Ymc&list=PLoJsaiKG1oXBfS2QQaliyrpKADi-ZQjfh)
 
 ### Tutorials
 
 1. Oracle docs
 2. [Programming Notes](https://www3.ntu.edu.sg/home/ehchua/programming/index.html#Java)
+
